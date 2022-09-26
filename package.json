@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@svgr/webpack": "^6.3.1",
+    "babel-plugin-styled-components": "^2.0.7",
+    "framer-motion": "^6.5.1",
+    "gsap": "file:gsap-bonus.tgz",
     "next": "12.2.3",
+    "prop-types": "^15.8.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-hover-video-player": "^9.7.0",
+    "react-intersection-observer": "^9.4.0",
+    "styled-components": "^5.3.5",
+    "swiper": "^8.3.2"
   },
   "devDependencies": {
     "eslint": "8.20.0",
